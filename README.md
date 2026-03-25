@@ -106,8 +106,7 @@ afidhadra@linux:~$ echo "Let's connect!" 🚀
 
 [GitHub] ➜ github.com/afidhadra
 [LinkedIn] ➜ linkedin.com/in/afidhadra  
-[Email] ➜ your@email.com
-[Twitter] ➜ twitter.com/afidhadra
+[Email] ➜ afidh12@gmail.com
 ```
 
 </div>
@@ -153,8 +152,6 @@ afidhadra@linux:~$ git clone your-awesome-idea.git
 afidhadra@linux:~$ npm start  # Let's build! 🚀
 afidhadra@linux:~$ _
 ```
-
-**Made with ❤️ on Linux | Theme: Fedora 🐧**
 
 ![Views](https://komarev.com/ghpvc/?username=afidhadra&color=c41e3a&style=flat-square)
 
