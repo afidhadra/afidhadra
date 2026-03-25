@@ -23,13 +23,13 @@
 
 ### <samp>&gt; whoami</samp>
 
-```yaml
-name: Afidh Adra
-role: Full Stack Developer
-location: Indonesia 🇮🇩
-focus: Building web-based public service systems
-learning: Always exploring new technologies 🌱
-```
+<p align="center">
+  <b>Afidh Adra</b> — Full Stack Developer 🇮🇩
+</p>
+
+<p align="center">
+  Building web-based public service systems & exploring new technologies
+</p>
 
 ---
 
