@@ -7,21 +7,23 @@
 |_|  |_|   |_|_____/ |_/\_\   |____/|_|_| \_|__\ |___| \___||_|   \_\
                                                                     
 ```
-</div>
 
 <div align="center">
 
 ### 🐧 **afidhadra@linux:~$** `whoami`
-### Full Stack Developer | Open Source Junkie
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=c41e3a&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Junkie+%F0%9F%94%A5;Building+cool+stuff...+%F0%9F%9A%80)](https://github.com/afidhadra)
 
 </div>
 
 ---
 
-## 🚀 **$ cat about_me.sh**
+## �� **$ cat about_me.sh**
 
 ```bash
 #!/bin/bash
+
+echo "⏳ Loading developer profile..." && sleep 1
 
 declare -A developer=(
   [name]="Afidh Adra"
@@ -32,6 +34,7 @@ declare -A developer=(
   [likes]="Linux, Open Source, Clean Code"
 )
 
+echo "✅ Profile loaded successfully!"
 echo "Welcome to my digital space! ✨"
 ```
 
@@ -41,18 +44,17 @@ echo "Welcome to my digital space! ✨"
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Database** | **DevOps** |
-|:---:|:---:|:---:|:---:|
-| React 🎨 | Node.js ⚡ | PostgreSQL 🐘 | Docker 🐳 |
-| Vue.js | Express | MongoDB | Kubernetes |
-| TypeScript | NestJS | Redis | Linux 🐧 |
-| TailwindCSS | Python | Firebase | Git |
+### ⚡ Animated Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript,nodejs,express,nestjs,python,postgresql,mongodb,docker,kubernetes,git,linux&theme=dark&perline=7" alt="Tech Stack" />
 
 </div>
 
 ---
 
 ## 🔥 **$ git status**
+
+<div align="center">
 
 ```bash
 On branch: main
@@ -65,6 +67,8 @@ Status: Active Developer 🟢
 [✓] Drinking lots of coffee ☕
 ```
 
+</div>
+
 ---
 
 ## 🎯 **$ ./fun_facts.sh**
@@ -74,7 +78,7 @@ Status: Active Developer 🟢
 ```
 ⚡ Debugging > Coding (more satisfying! 😄)
 🎮 Gamer by nature, Developer by choice
-�� Reading docs at 3 AM is my hobby
+📖 Reading docs at 3 AM is my hobby
 🌙 Best commits happen after midnight
 ☕ Powered by coffee & curiosity
 🎧 Lo-fi beats = Maximum productivity
@@ -89,9 +93,19 @@ Status: Active Developer 🟢
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afidhadra&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=c41e3a&text_color=ffffff&icon_color=c41e3a&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afidhadra&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=c41e3a&text_color=ffffff&icon_color=c41e3a&count_private=true&line_height=27&animation=wave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afidhadra&theme=dark&hide_border=true&layout=compact&bg_color=1a1a1a&title_color=c41e3a&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afidhadra&theme=dark&hide_border=true&layout=compact&bg_color=1a1a1a&title_color=c41e3a&text_color=ffffff&animation=wave)
+
+</div>
+
+---
+
+## 🌊 **$ stream --activity**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afidhadra&theme=react-dark&hide_border=true&area=true&bg_color=1a1a1a&color=c41e3a&point=ffffff)
 
 </div>
 
@@ -104,9 +118,11 @@ Status: Active Developer 🟢
 ```bash
 afidhadra@linux:~$ echo "Let's connect!" 🚀
 
-[GitHub] ➜ github.com/afidhadra
-[LinkedIn] ➜ linkedin.com/in/afidhadra  
-[Email] ➜ afidh12@gmail.com
+┌─────────────────────────────────────┐
+│ [GitHub]   → github.com/afidhadra   │
+│ [LinkedIn] → linkedin.com/in/afidhadra  │
+│ [Email]    → afidh12@gmail.com      │
+└─────────────────────────────────────┘
 ```
 
 </div>
@@ -118,11 +134,13 @@ afidhadra@linux:~$ echo "Let's connect!" 🚀
 <div align="center">
 
 ```
-"Code is like poetry for machines—
- make it elegant, make it readable,
- and never leave it undocumented."
-
-— A Linux Developer's Mantra
+╭─────────────────────────────────────╮
+│ "Code is like poetry for machines—  │
+│  make it elegant, make it readable, │
+│  and never leave it undocumented."  │
+│                                     │
+│        — A Developer's Mantra       │
+╰─────────────────────────────────────╯
 ```
 
 </div>
@@ -133,12 +151,34 @@ afidhadra@linux:~$ echo "Let's connect!" 🚀
 
 <div align="center">
 
-| Achievement | Description |
-|:---:|:---|
-| 🎖️ | Full Stack Developer |
-| 🔥 | Linux & DevOps Enthusiast |
-| ⭐ | Open Source Contributor |
-| 💪 | Problem Solver |
+| 🎖️ | 🔥 | ⭐ | 💪 |
+|:---:|:---:|:---:|:---:|
+| Full Stack Developer | Linux & DevOps | Open Source Contributor | Problem Solver |
+
+</div>
+
+---
+
+## 🎮 **$ ./interactive_commands.sh**
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afidhadra&repo=awesome-project&theme=dark&bg_color=1a1a1a&title_color=c41e3a&text_color=ffffff&show_owner=true)](https://github.com/afidhadra)
+
+</div>
+
+---
+
+## 📈 **$ wakatime --dashboard**
+
+<div align="center">
+
+```bash
+afidhadra@linux:~$ curl https://wakatime.com/share/afidhadra
+Loading your coding activity... 🔄
+```
+
+[![WakaTime Badge](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@afidhadra)
 
 </div>
 
@@ -147,12 +187,18 @@ afidhadra@linux:~$ echo "Let's connect!" 🚀
 <div align="center">
 
 ```bash
-afidhadra@linux:~$ echo "Thanks for visiting! 👋"
+afidhadra@linux:~$ echo "🎯 Ready to collaborate?" 
 afidhadra@linux:~$ git clone your-awesome-idea.git
 afidhadra@linux:~$ npm start  # Let's build! 🚀
 afidhadra@linux:~$ _
+
+╭──────────────────────────────────────╮
+│  Thanks for stopping by! 👋          │
+│  Star ⭐ if you like this profile    │
+│  Fork 🔀 and make it yours!          │
+╰──────────────────────────────────────╯
 ```
 
-![Views](https://komarev.com/ghpvc/?username=afidhadra&color=c41e3a&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=afidhadra&color=c41e3a&style=flat-square&label=Profile%20Views%20%F0%9F%91%80)
 
 </div>
