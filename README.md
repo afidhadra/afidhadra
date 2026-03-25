@@ -12,7 +12,7 @@
 <div align="center">
 
 ### 🐧 **afidhadra@linux:~$** `whoami`
-### Full Stack Developer | Open Source Junkie | Linux Enthusiast
+### Full Stack Developer | Open Source Junkie
 
 </div>
 
