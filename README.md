@@ -44,9 +44,9 @@ echo "Welcome to my digital space! ✨"
 
 <div align="center">
 
-### ⚡ Animated Tech Stack
+### ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript,nodejs,express,nestjs,python,postgresql,mongodb,docker,kubernetes,git,linux&theme=dark&perline=7" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript,nodejs,express,nestjs,python,postgresql,mongodb,git,linux&theme=dark&perline=7" alt="Tech Stack" />
 
 </div>
 
