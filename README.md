@@ -50,14 +50,14 @@ learning: Always exploring new technologies 🌱
 
 ---
 
-### <samp>&gt; cat contribution_log.svg</samp>
+### <samp>&gt; cat contribution_log</samp>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=afidhadra&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20%5BD%5D" alt="Streak" />
+  <img src="https://ghchart.rshah.org/afidhadra" alt="GitHub Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afidhadra/afidhadra/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://streak-stats.demolab.com?user=afidhadra&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20%5BD%5D" alt="Streak" />
 </p>
 
 ---
