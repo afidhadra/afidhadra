@@ -1,47 +1,84 @@
-<!-- metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afidhadra&style=flat-square&color=000000" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+terminal+%E2%96%B6;root@afidhadra:~# ./about_me.sh" alt="Terminal" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/afidhadra">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=github_dark&fonts=true&align=center&title=true&lineCount=2&lineWidth=90&count=true&width=500&hideBorder=true&langs=javascript%2Ctypescript%2Creact%2Cvue%2Cnodejs%2Cnestjs" alt="Tech Stack" />
-  </a>
+  <img src="https://raw.githubusercontent.com/macosquery/macosquery/master/assets/terminal.svg" width="100%" alt="Terminal Banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=1&pause=1&color=ffffff&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Afidh+Adra+%7C+Full+Stack+Developer" alt="Typing" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afidhadra&hide_border=true&hide_title=true&show_icons=true&theme=github_dark&icon_color=ffffff&text_color=ffffff&title_color=ffffff&bg_color=00000000&rank_icon=github&include_all_commits=true" alt="Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afidhadra&hide_border=true&hide_title=true&theme=github_dark&layout=compact&langs_count=8&text_color=ffffff&title_color=ffffff&bg_color=00000000" alt="Languages" width="400" />
-</p>
-
----
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ███████╗██╗   ██╗██████╗ ████████╗███████╗██╗  ██╗███████╗  │
+│  ██╔════╝██║   ██║██╔══██╗╚══██╔══╝██╔════╝██║ ██╔╝██╔════╝  │
+│  ███████╗██║   ██║██████╔╝   ██║   █████╗  █████╔╝ ███████╗  │
+│  ╚════██║██║   ██║██╔══██╗   ██║   ██╔══╝  ██╔═██╗ ╚════██║  │
+│  ███████║╚██████╔╝██████╔╝   ██║   ███████╗██║  ██╗███████║  │
+│  ╚══════╝ ╚═════╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=afidhadra&hide_border=true&theme=github_dark&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=909090" alt="Streak" width="800" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&font=monospace" alt="Quotes" />
 </p>
 
 ---
 
+### <samp>&gt; whoami</samp>
+
+```yaml
+name: Afidh Adra
+role: Full Stack Developer
+location: Indonesia 🇮🇩
+focus: Building web-based public service systems
+learning: Always exploring new technologies 🌱
+```
+
+---
+
+### <samp>&gt; cat tech_stack.txt</samp>
+
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/afidhadra">
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nestjs,postgres,mongodb,git,docker,linux&theme=light" alt="Tech Stack" />
 </p>
 
 ---
+
+### <samp>&gt; ./github_stats.sh</samp>
+
+<p align="center" display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=afidhadra&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afidhadra&layout=donut&theme=dracula&hide_border=true" alt="Languages" />
+</p>
+
+---
+
+### <samp>&gt; cat contribution_log.svg</samp>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=afidhadra&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20%5BD%5D" alt="Streak" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/afidhadra/afidhadra/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
+### <samp>&gt; ./connect.sh</samp>
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/afidhadra"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7790ccf1/bottom_header.svg" alt="Footer" />
+</p>
+
+<p align="center">
+  <sub>Crafted with <span style="color: #e25555;">&heartsuit;</span> by <b>afidhadra</b></sub>
 </p>
