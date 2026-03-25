@@ -13,7 +13,7 @@
 ║  ███████║╚██████╔╝██████╔╝   ██║   ███████╗██║  ██╗███████║  ║
 ║  ╚══════╝ ╚═════╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝  ║
 ╠══════════════════════════════════════════════════════════════╣
-║   [>] Full Stack Developer | Indonesia 🇮🇩 | Always Learning 🌱  ║
+║   [>] Tukang Ngoding | Indonesia 🇮🇩 | Belajar Terus 🌱  ║
 ╚══════════════════════════════════════════════════════════════╝
 </span>
 </pre>
@@ -24,7 +24,7 @@
 ### <samp>&gt; whoami</samp>
 
 <p align="center">
-  <b>Afidh Adra</b> — Full Stack Developer 🇮🇩
+  <b>Afidh Adra</b> — Tukang Ngoding 🇮🇩
 </p>
 
 <p align="center">
